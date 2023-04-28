@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968504390694",
+    "project_id": "bd-tareas-8e8c0",
+    "storage_bucket": "bd-tareas-8e8c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968504390694:android:f15f0307006fb2a609a2e7",
+        "android_client_info": {
+          "package_name": "com.example.parcialdos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968504390694-9kkfpvhhf5e2hmcultlbj6066iv3sel2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7TUdMKoA1u4j3nm8Q3OYEtrsbDEyQ9gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968504390694-9kkfpvhhf5e2hmcultlbj6066iv3sel2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

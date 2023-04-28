@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ParcialDos</string>
+    <string name="btnIniciar">INICIAR SESIÓN</string>
+    <string name="btnRegistrar">CREAR USUARIO</string>>
+    <string name="newTask">NUEVA TAREA</string>
+    <string name="volver">SALIR</string>
+    <string name="valid">No tienes una cuenta?</string>
+    <string name="txtInsertNew">INSERTE NUEVA TAREA</string>
+    <string name="btnSave">GUARDAR TAREA</string>
+
+</resources>
